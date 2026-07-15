@@ -1,0 +1,8 @@
+.gemini/
+.idea/
+.vscode/
+Thumbs.db
+Ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.log
